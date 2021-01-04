@@ -1,0 +1,12 @@
+C:\Users\11810677\Desktop\kShop\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\11810677\Desktop\kShop\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\11810677\Desktop\kShop\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\11810677\Desktop\kShop\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\11810677\Desktop\kShop\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\11810677\Desktop\kShop\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
